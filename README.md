@@ -6,5 +6,5 @@ adicionando no projeto padrão do React-Native.
 
 ## Como Executar
 
-1 - Para  instalar as dependecias `npm i`
-2 - Para rodar o app utilizando um emulador basta executar o comando `yarn android` no caso de emulador android ou `yarn ios` no caso de IOS
+1. Para  instalar as dependecias `npm i`
+2. Para rodar o app utilizando um emulador basta executar o comando `yarn android` no caso de emulador android ou `yarn ios` no caso de IOS

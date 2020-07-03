@@ -27,7 +27,7 @@ import {
 const App: () => React$Node = () => {
   return (
     <>
-      <StatusBar barStyle="dark-content" />
+      <StatusBar barStyle="light-content" backgroundColor="#4f6d7a" />
       <SafeAreaView>
         <ScrollView
           contentInsetAdjustmentBehavior="automatic"
@@ -79,9 +79,10 @@ const styles = StyleSheet.create({
   engine: {
     position: 'absolute',
     right: 0,
+    backgroundColor: '#4f6d7a',
   },
   body: {
-    backgroundColor: Colors.white,
+    backgroundColor: '#4f6d7a', //Colors.white,
   },
   sectionContainer: {
     marginTop: 32,
